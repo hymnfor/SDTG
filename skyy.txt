@@ -1,0 +1,6 @@
+#inlude <iostream>
+int main(int argc,char *argv[])
+{
+std::cout <<"shut me down"<<std::endl;
+return(0);
+}
